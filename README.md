@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">Hello World.i am hussain Akhter</h1>
+<h1 align="center">Hello World.i am Hussain Akhter</h1>
 
 ###
 
